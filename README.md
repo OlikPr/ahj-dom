@@ -1,6 +1,6 @@
 ### Перемещение элемента
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ym1tnda9jkg1ki9b?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-dom-t447b)
+[![Build status](https://ci.appveyor.com/api/projects/status/xj25d75acy15w558?svg=true)](https://ci.appveyor.com/project/OlikPr/ahj-dom)
 
 deployment:
 #### Легенда
